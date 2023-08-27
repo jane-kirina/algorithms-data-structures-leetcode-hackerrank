@@ -1,0 +1,5 @@
+-- SQL Project Planning
+-- Placements
+-- Symmetric Pairs
+-- Interviews
+-- 15 Days of Learning SQL
