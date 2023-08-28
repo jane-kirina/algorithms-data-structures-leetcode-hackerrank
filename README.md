@@ -76,8 +76,7 @@
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)                               | [✔️](src/com/company/leetcode/easy/SignOfProductOfArray.java)               |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)   | [✔️](src/com/company/leetcode/easy/ArithmeticProgressionFromSequence.java)  |
 | 896  | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                                               | [✔️](src/com/company/leetcode/easy/MonotonicArray.java)                     |
-| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | [🟡](src/com/company/leetcode/easy/RomanToInteger.java)                     |
-| num  | [name](link)                                                                                                                    | [❌]()                                                                       |
+| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | [✔️](src/com/company/leetcode/easy/RomanToInteger.java)                     |
 
 ### Medium ###
 
@@ -95,14 +94,12 @@
 | 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                       | [❌]()                                                       |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [❌]()                                                       |
 | 17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                   | [❌]()                                                       |
-| num | [name](link)                                                                                                                    | [❌]()                                                       |
 
 ### Hard ###
 
 |  #  | Problem                                                                         | Solution |
 |:---:|---------------------------------------------------------------------------------|----------|
 | 53  | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | [❌]()    |
-| num | [name](link)                                                                    | [❌]()    |
 
 
 
@@ -131,7 +128,6 @@
 | Implementation | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true)                         | [✔️](src/com/company/hackerrank/algorithm/implementation/easy/ElectronicsShop.java)          | Easy       |
 | Implementation | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)                           | [✔️](src/com/company/hackerrank/algorithm/implementation/easy/AngryProfessor.java)           | Easy       |
 | Implementation | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) | [✔️](src/com/company/hackerrank/algorithm/implementation/easy/BeautifulDaysAtTheMovies.java) | Easy       |
-| topic          | [name](link)                                                                                                                 | [❌]()                                                                                        | dif        |
 
 ### Sql ###
 
