@@ -77,6 +77,7 @@
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)   | [✔️](src/com/company/leetcode/easy/ArithmeticProgressionFromSequence.java)  |
 | 896  | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                                               | [✔️](src/com/company/leetcode/easy/MonotonicArray.java)                     |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | [✔️](src/com/company/leetcode/easy/RomanToInteger.java)                     |
+| 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                       | [🟡](src/com/company/leetcode/easy/LengthOfLastWord.java)                   |
 
 ### Medium ###
 
