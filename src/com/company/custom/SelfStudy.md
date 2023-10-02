@@ -5,6 +5,7 @@
 - [Queue](structures/Queue.java)
 - [Dynamic Array](structures/DynamicArray.java)
 - [Linked List](structures/LinkedList.java)
+- [Tree](structures/Tree.java)
 
 ### 2. Implementation algorithms: ###
 
